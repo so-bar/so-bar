@@ -1,7 +1,7 @@
 # 👋 Hi, I'm So!
 
 <img width="2120" height="742" alt="So banner" src="https://github.com/user-attachments/assets/7b2452fe-4e7b-411a-8010-671eb56f5102" />
-
+&nbsp;
 
 I'm a Data Analyst with a background in Computer Science and Business Analytics. I enjoy taking messy datasets, asking the right questions, and turning the answers into insights that are actually useful for a business.
 
@@ -9,7 +9,7 @@ My experience has given me exposure to SQL, Excel, Power Query, Power BI, Tablea
 
 ---
 
-### 🔎 What I Like Working On
+### ✦ What I Like Working On
 * SQL & Business Analysis — exploring sales, customer, and operational data to uncover trends, patterns, and opportunities.
 * Data Cleaning & Quality — finding inconsistencies and making messy data reliable enough to analyze.
 * Excel & Power Query — building repeatable analysis and reducing manual reporting work.
@@ -33,7 +33,7 @@ I'm continuously learning, experimenting, and improving how I approach data prob
 
 ---
 
-### 🛠️ Main Tools
+### ⚙ Tools
 * **Language:** SQL
 * **Databases:** MYSQL, PostgreSQL, BigQuery
 * **Technical:** Excel, Google Sheet
@@ -41,6 +41,6 @@ I'm continuously learning, experimenting, and improving how I approach data prob
 
 ---
 
-### 📬 Let's Connect
+### 🤝 Let's Connect
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/sobar/](https://www.linkedin.com/in/sobar/)
-* 📧 **Email:** [your.email@example.com](mailto:sobar.connect@gmail.com)
+* ✉️ **Email:** [sobar.connect@gmail.com](mailto:sobar.connect@gmail.com)
