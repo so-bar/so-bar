@@ -1,4 +1,7 @@
-# 👋 Hi, I'm So
+# 👋 Hi, I'm So!
+
+<img width="2120" height="742" alt="So banner" src="https://github.com/user-attachments/assets/7b2452fe-4e7b-411a-8010-671eb56f5102" />
+
 
 I'm a Data Analyst with a background in Computer Science and Business Analytics. I enjoy taking messy datasets, asking the right questions, and turning the answers into insights that are actually useful for a business.
 
