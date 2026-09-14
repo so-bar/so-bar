@@ -1,4 +1,4 @@
-# 👋 Hi, I'm So!
+# 👋 Hi, I'm So
 
 I'm a Data Analyst with a background in Computer Science and Business Analytics. I enjoy taking messy datasets, asking the right questions, and turning the answers into insights that are actually useful for a business.
 
